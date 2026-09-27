@@ -1,0 +1,14 @@
+{
+  "name": "cafe-coffee-treat",
+  "version": "1.0.0",
+  "description": "Cafe Coffee Treat — POS/KDS/inventory/staff/reports backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.3.0",
+    "bcryptjs": "^2.4.3",
+    "express": "^4.19.2"
+  }
+}
