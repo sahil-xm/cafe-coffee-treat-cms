@@ -1,4 +1,5 @@
 {
+  "engines": { "node": "22.x" }
   "name": "cafe-coffee-treat",
   "version": "1.0.0",
   "description": "Cafe Coffee Treat — POS/KDS/inventory/staff/reports backend",
